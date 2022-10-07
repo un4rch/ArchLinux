@@ -1,0 +1,22 @@
+window:
+    position:
+        x: 0
+        y: 0
+    padding:
+        x: 10
+        y: 10
+    opacity: 0.85
+font:
+    normal:
+        family: Hack
+        style: Regular
+    bold:
+        family: Hack
+        style: Bold
+    italic:
+        family: Hack
+        style: Italic
+    bold_italic:
+        family: Hack
+        style: Bold Italic
+    size: 11.0

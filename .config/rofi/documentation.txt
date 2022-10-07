@@ -1,0 +1,32 @@
+// coment
+/* multi-line comment */
+*{
+    //list of global properties
+}
+propiedades:
+
+enabled: true/false; //enable/disable de widget
+padding: ;
+margin: ;
+border: ;
+border-radius: ;
+background-color: ;
+background-image: ;
+border-color: ;
+cursor: ;
+font: ;
+transparency: ;
+location: ;
+anchor: ;
+fullscreen: ;
+width: ;
+height: ;
+x-offset: ;
+y-offset: ;
+handle-width: ;
+handle-color: ;
+orientation: ;
+spacing: ;
+
+
+
