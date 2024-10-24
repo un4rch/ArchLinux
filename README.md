@@ -4,4 +4,7 @@
 - [Installation Guide](#installation-guide)
 
 ## Installation Guide
-Hola
+```bash
+# localectl list-keymaps
+loadkeys es
+```
